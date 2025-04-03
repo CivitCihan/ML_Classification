@@ -62,6 +62,3 @@ pip install numpy matplotlib pandas statsmodels seaborn scikit-learn
 ## Contribution
 Feel free to contribute by submitting issues or pull requests to improve existing models or add new classification techniques.
 
-## License
-This project is licensed under the MIT License.
-
